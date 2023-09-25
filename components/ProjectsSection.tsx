@@ -22,12 +22,12 @@ const projects = [
     link: "https://daily-life-goals-app.vercel.app/",
   },
   {
-    name: "Kator Family Photos",
+    name: "O Travels",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus, praesentium distinctio.",
-    image: "/familyphotos.png",
-    github: "https://github.com/hqasmei/katorfamilyphotos",
-    link: "https://katorfamilyphotos.com/",
+      "Embark on unforgettable journeys with our expertly crafted travel experiences. Your adventure begins here.",
+    image: "/OTravels.png",
+    github: "https://github.com/wajahat-baloch/O_Travels.git",
+    link: "https://o-travels.vercel.app/",
   },
 ];
 
