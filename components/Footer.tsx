@@ -15,7 +15,7 @@ const Footer = () => {
         </div>
         <div className="flex flex-row items-center justify-center space-x-2 mb-1">
           <a
-            href="https://github.com/wajahat-baloch"
+            href="https://github.com/wajahat-baloch188"
             rel="noreferrer"
             target="_blank"
           >

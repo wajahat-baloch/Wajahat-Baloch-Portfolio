@@ -14,6 +14,14 @@ const projects = [
     link: "https://crypto-hub-seven.vercel.app/",
   },
   {
+    name: "Delicious",
+    description:
+      "Delicious is a React.js recipe website where users can browse, search, and discover mouthwatering dishes.",
+    image: "/delicious.png",
+    github: "https://github.com/wajahat-baloch188/Delicious_Recipe_App",
+    link: "https://delicious-recipe-gpvn1dwej-wajahatbaloch2020-gmailcom.vercel.app/",
+  },
+  {
     name: "Daily Goals App",
     description:
       "This empowering app equips you with the tools to conquer your daily life goals and transform your aspirations into achievements.",
