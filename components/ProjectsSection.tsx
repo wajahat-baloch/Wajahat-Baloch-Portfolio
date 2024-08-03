@@ -14,6 +14,14 @@ const projects = [
     link: "https://crypto-hub-seven.vercel.app/",
   },
   {
+    name: "Ethereal Elegance",
+    description:
+      "Explore the ultimate destination for cosmetic beauty with our sleek, modern landing page. Discover top-quality products and exclusive offers tailored for your unique style.",
+    image: "/ethreal.png",
+    github: "https://github.com/wajahat-baloch188/Cosmetic-Landing-Page",
+    link: "https://cosmetic-landing-page-nz58bmuzx.vercel.app/",
+  },
+  {
     name: "Delicious",
     description:
       "Delicious is a React.js recipe website where users can browse, search, and discover mouthwatering dishes.",
